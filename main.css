@@ -1,0 +1,296 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.header {
+  display: flex;
+  margin: 20px;
+  width: 95%;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px auto;
+  border-bottom: 1px solid gray;
+  padding: 45px 0;
+}
+.q {
+  font-size: 20px;
+  width: 200px;
+  cursor: pointer;
+}
+.e {
+  width: 200px;
+  text-align: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+.podhead {
+  margin: 1px 10px;
+  display: flex;
+  justify-content: center;
+}
+* {
+  font-family: "Fira Sans", sans-serif;
+}
+.w {
+  margin: 25px 20px;
+  cursor: pointer;
+}
+.r {
+  width: 1260px;
+  margin-right: 20px;
+  height: auto;
+  margin: 0 auto;
+  position: relative;
+}
+.promo-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.fontph {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 100;
+}
+.y {
+  background: black;
+  color: white;
+  width: 70px;
+  height: 30px;
+  border: black;
+  cursor: pointer;
+}
+.disapper {
+  display: flex;
+}
+.disapper div {
+  width: 170px;
+  height: 70px;
+}
+.te {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.tl {
+  border-top: 1px solid black;
+  border-left: 1px solid #000;
+}
+.br {
+  border-right: 1px solid black;
+  border-bottom: 1px solid #000;
+}
+.gerq {
+  width: 516px;
+  top: 500px;
+}
+.yp {
+  background: black;
+  color: white;
+  width: 90px;
+  height: 30px;
+  border: black;
+  cursor: pointer;
+}
+.posmotre {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 80px;
+}
+.rud {
+  padding: 100px 30px;
+}
+.hhh {
+  padding-left: 0;
+}
+.b {
+  font-size: 40px;
+  text-align: center;
+}
+.zacaz {
+  width: 100%;
+  text-align: center;
+}
+.st {
+  margin: 43px 350px;
+}
+#otzev {
+  background-color: #f8f8f8;
+}
+.tovar {
+  width: 20%;
+  position: relative;
+  margin: 31px;
+}
+.shop {
+  text-align: center;
+  width: 100%;
+  display: flex;
+}
+.tovar.h8 {
+  font-size: 20px;
+  margin: 0;
+  color: aliceblue;
+}
+.tovar p {
+  margin: 0;
+  font-size: 20px;
+}
+.odetia {
+  width: 100%;
+  text-align: center;
+}
+.transition {
+  width: 100%;
+  cursor: pointer;
+  background: url("https://static-eu.insales.ru/images/products/1/5800/234256040/large_1938617800_2_4_1_95e2bde9-463c-48bb-8a1a-9d213e3968d7_1920x.progressive.jpg");
+}
+.chena {
+  cursor: pointer;
+}
+.stik {
+  background-color: #ffffff;
+  color: #313131;
+  width: 19px;
+  margin: 5px 2px;
+}
+.ponatno {
+  position: absolute;
+  margin: 5px 3px;
+}
+.fontphtt {
+  display: block;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  background: url("https://static-eu.insales.ru/files/1/6376/9804008/original/01_bc244f31-49b0-42ad-b7dc-8e21f9bf57a9_1920x.progressive.png.jpg");
+}
+.promo-imag {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.fontphp {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 100;
+  color: white;
+}
+.ys {
+  background: black;
+  color: white;
+  width: 84px;
+  height: 30px;
+  border: black;
+  cursor: pointer;
+}
+.rrr {
+  width: 100%;
+  position: relative;
+  border-bottom: 1px solid gray;
+}
+.fontpht {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 100;
+  background-color: #ffffff;
+  width: 600px;
+  height: 200px;
+}
+.tp {
+  margin: 50px 5px 10px;
+}
+.bn {
+  font-size: 30px;
+}
+.b {
+  margin: 50px;
+}
+.alike {
+  display: flex;
+  justify-content: center;
+}
+.holdf {
+  width: 300px;
+  height: 300px;
+  background: url("https://scontent.cdninstagram.com/v/t51.2885-15/e35/69837162_157969682055336_8464001709292929096_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_ohc=6PH7_6ULBiQAX-08YAE&oh=aadea2e4ad1a02d0d03d198a1ef1edec&oe=5E7307D4");
+  background-size: 100% 100%;
+}
+.holdu {
+  width: 300px;
+  height: 300px;
+  background: url("https://scontent.cdninstagram.com/v/t51.2885-15/e35/68863264_165026774628203_708160353152317875_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_ohc=3_UIDaI4CcQAX_1sHrg&oh=e99069ab1d004962fe61f4170a037c0e&oe=5EAD6F46");
+  background-size: 100% 100%;
+}
+.holdl {
+  width: 300px;
+  height: 300px;
+  background: url("https://scontent.cdninstagram.com/v/t51.2885-15/e35/66712433_230749361178995_7419101636434277724_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_ohc=11lNICZMG3AAX8-QUqN&oh=0b54028325e9c79b689fe8a740724d78&oe=5E975658");
+  background-size: 100% 100%;
+}
+.holds {
+  width: 300px;
+  height: 300px;
+  background: url("https://scontent.cdninstagram.com/v/t51.2885-15/e35/68673853_899595937100016_5274775582923933262_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_ohc=sdNiWZsCCucAX9M6usv&oh=362600bec7a10add795a076ee9bcf4c1&oe=5E7D5536");
+  background-size: 100% 100%;
+}
+.tp {
+  margin: 14px 27px 10px;
+}
+.red {
+  margin: 14px 27px 10px;
+  color: red;
+  cursor: pointer;
+}
+.red:hover {
+  text-decoration: underline;
+}
+.nav ul li {
+  list-style: none;
+  display: inline-block;
+  font-size: 20px;
+  margin-left: 15px;
+  cursor: pointer;
+}
+.pocentry {
+  text-align: center;
+  padding-top: 100px;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  margin: 5px 100px;
+} 
+.nav {
+  display: flex;
+  justify-content: center;
+}
+.nav li:hover {
+  color: red;
+}
+.wk {
+  width: 23px;
+  height: 20px;
+  margin: 5px 10px;
+  cursor: pointer;
+}
+.tel {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+#end {
+  height: 350px;
+  margin: 50px auto;
+  background-color: #f8f8f8;
+}
